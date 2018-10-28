@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F217-6ECA
+
+ Directory of C:\Users\venkat\Desktop\dev
+
+10/28/2018  09:31 AM    <DIR>          .
+10/28/2018  09:31 AM    <DIR>          ..
+10/28/2018  09:18 AM               351 test1.txt
+10/28/2018  09:31 AM                 0 test2.txt
+               2 File(s)            351 bytes
+               2 Dir(s)  93,616,779,264 bytes free
